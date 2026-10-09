@@ -1,0 +1,1 @@
+“Demonstrate memory in a chat. Ask the user to share a small detail, acknowledge it, then refer to it naturally in a later turn without asking again. Keep the conversation brief. At the end, explain which detail you retained in the current conversation and whether it was also saved as long-term memory.”
